@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\bin\Debug\zadacha.exe.config
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\bin\Debug\zadacha.exe
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\bin\Debug\zadacha.pdb
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.Form1.resources
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.Properties.Resources.resources
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.exe
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.pdb
+C:\Users\user\Desktop\2prog.tech\zadacha\zadacha\obj\Debug\zadacha.csprojResolveAssemblyReference.cache
