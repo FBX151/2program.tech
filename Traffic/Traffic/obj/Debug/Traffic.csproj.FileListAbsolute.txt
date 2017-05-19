@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.Form1.resources
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\user\Desktop\2prog.tech\Traffic\Traffic\obj\Debug\Traffic.pdb
